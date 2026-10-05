@@ -1,16 +1,96 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rodrigo-Espindola/Rodrigo-Espindola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Threat In</h1>
 
-Here are some ideas to get you started:
+  <!-- Badges / Escudos estilo Shields.io -->
+  <a href="https://seu-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-SEUSITE.COM-00FF66?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-SEU__NOME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-SEU__USUARIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/><br/>
+
+  <!-- Contador de Visitas -->
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VIEWS&color=0eac51&style=flat-square" alt="Profile Views" />
+
+</div>
+
+<br/>
+
+## 🛡️ Sobre mim
+
+```bash
+┌──(seu-usuario㉿kali)-[~]
+└─$ whoami
+
+  Name    : Seu Nome
+  Role    : Cybersecurity Specialist
+  Focus   : Defense in Depth | Identity & Access Management (IAM) | Secure Data Transfer
+  Status  : 🔴 Preparações avançadas para a certificação Cisco CyberOps...
+  Learning: OpenSSL, mTLS, PKI Architectures & Network Defense Strategy
+  Contact : [https://linkedin.com/in/SEU_LINKEDIN](https://linkedin.com/in/SEU_LINKEDIN)
+
+```
+
+---
+
+## ⚔️ Habilidades e Arsenal
+
+### 🔵 Defesa Cibernética e Segurança de Redes
+
+* **Defesa em Profundidade:** Microsegmentação, Zero Trust Network Access (ZTNA), EDR/XDR, Análise de Tráfego
+* **Segurança Operacional:** Cisco CyberOps, Análise de Logs, Mitigação de Ataques Ativos (MitM, ARP/DNS Spoofing)
+
+### 🎯 Gestão de Identidades (IAM) & Criptografia
+
+* **Gestão de Acesso:** IAM, PAM (Privileged Access Management), RBAC/ABAC, Autenticação MFA/FIDO2
+* **Transferência Segura de Dados:** Criptografia Simétrica (AES) e Assimétrica (RSA/ECC), HMAC, Hashing (SHA-256)
+
+### 💻 Protocolos e Infraestrutura de Confiança
+
+* **PKI & Certificados:** Infraestrutura de Chaves Públicas (CAs Privadas/Públicas), Certificados X.509, CRL/OCSP
+* **Comunicação Segura:** Proteção da camada de transporte via TLS 1.3, mTLS (Mutual TLS), IPsec VPNs, SSH
+
+### ☁️ Ferramentas & Laboratório
+
+* **Sistemas & CLI:** Linux (Kali / Ubuntu), OpenSSL, Wireshark, Bash Scripting, Cisco Packet Tracer
+
+---
+
+## 🎯 Missão Atual
+
+```text
+[██████████████░░░░░░] 70% — 🎓 Cisco CyberOps Associate
+[████████████░░░░░░░░] 60% — 🔐 Implementação de PKI Privada e mTLS
+[████████░░░░░░░░░░░░] 40% — 🛡️ Laboratórios Práticos de Defesa em Profundidade
+
+```
+
+---
+
+## 🏆 Certificações e Conquistas
+
+| 🎖️ Certificação | 🏢 Emissor | 📅 Status |
+| --- | --- | --- |
+| 🛡️ **Cisco CyberOps Associate** | Cisco Networking Academy | ⏳ Em Andamento |
+| 🔑 **Fundamentos de Criptografia e PKI** | Estudos Dirigidos | ✅ Ativo |
+| 🔐 **Segurança em Redes e Defesa em Camadas** | Especialização Autônoma | ✅ Ativo |
+
+---
+
+## 🌐 Conecte-se comigo
+
+> *"Quanto mais silencioso você se torna, mais você consegue ouvir."* — **Kali Linux**
+
+```
+
+---
+
+```
+
+
