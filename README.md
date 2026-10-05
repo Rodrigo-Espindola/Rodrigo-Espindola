@@ -18,11 +18,7 @@
     <img src="https://img.shields.io/badge/GITHUB-SEU__USUARIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <br/><br/>
-
-  <!-- Contador de Visitas -->
- <img src="https://komarev.com/ghpvc/?username=Rodrigo-Espindola&label=PROFILE%20VIEWS&color=0eac51&style=flat-square" alt="Profile Views" />
-
+  
 </div>
 
 <br/>
