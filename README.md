@@ -86,7 +86,7 @@
 
 ## 🌐 Conecte-se comigo
 
-> *"Quanto mais silencioso você se torna, mais você consegue ouvir."* — **Kali Linux**
+> *"Através da navalha de hallon aprendemos que nem sempre é pela malicisa e sim pela negligencia"* — **Kali Linux**
 
 ```
 
