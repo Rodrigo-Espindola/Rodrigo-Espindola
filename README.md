@@ -4,6 +4,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=Cyber+Defense+%26+Secure+Data;Defense+in+Depth+%7C+IAM+%7C+PKI;Cisco+CyberOps+Associate" alt="Typing SVG" />
   </a>
+  
 
   <!-- Badges / Escudos estilo Shields.io -->
   <a href="https://seu-website.com" target="_blank">
