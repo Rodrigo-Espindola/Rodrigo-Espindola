@@ -15,8 +15,6 @@
 
   <br/><br/>
 
-  <!-- Contador de Visitas -->
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VIEWS&color=0eac51&style=flat-square" alt="Profile Views" />
 
 </div>
 
