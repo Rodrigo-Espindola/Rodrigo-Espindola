@@ -13,6 +13,11 @@
     <img src="https://img.shields.io/badge/GITHUB-SEU__USUARIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
+  <!-- Texto Animado estilo Terminal Verde -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=Cyber+Defense+%26+Secure+Data;Defense+in+Depth+%7C+IAM+%7C+PKI;Cisco+CyberOps+Associate" alt="Typing SVG" />
+  </a>
+
   <br/><br/>
 
 
