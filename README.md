@@ -86,12 +86,9 @@
 
 ## 🌐 Conecte-se comigo
 
-> *"Através da navalha de hallon aprendemos que nem sempre é pela malicisa e sim pela negligencia"* — **Kali Linux**
+> *"Através da navalha de hallon aprendemos que nem sempre é pela malicisia e sim pela negligencia"* — **Kali Linux**
 
 ```
 
----
-
-```
 
 
