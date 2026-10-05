@@ -88,7 +88,6 @@
 
 > *"Através da navalha de hallon aprendemos que nem sempre é pela malicia e sim pela negligencia"* — **Kali Linux**
 
-```
 
 
 
