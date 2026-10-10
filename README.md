@@ -55,10 +55,15 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
----
+
 
 
 > *"O simples abriga a complexidade"*
+
+</div>
+
+<!-- Barra Ondulada Verde Final -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" width="100%" />
 
 
 
