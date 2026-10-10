@@ -84,9 +84,8 @@
 
 ---
 
-## 🌐 Conecte-se comigo
 
-> *"Criar algo simples de se entender e usar é o ápice da complexidade"* — **Rodrigo Espindola**
+> *"O simples abriga a complexidade"
 
 
 
