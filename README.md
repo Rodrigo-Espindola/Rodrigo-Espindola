@@ -1,14 +1,14 @@
  <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Cyber+Defense+%26+Secure+Data;Defense+in+Depth+%7C+IAM+%7C+PKI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Defesa+Cibernetica+%26+Dados+Seguros;Defesa+em+Profundidade+%7C+IAM+%7C+PKI" alt="Texto animado: Defesa Cibernética e Dados Seguros" />
   </a>
 
   <br/>
 
-  **Defensive Security Architecture**
+  **Arquitetura de Segurança Defensiva**
 
-  *Defense in Depth · Identity & Access Management · Secure Data*
+  *Defesa em Profundidade · Gestão de Identidades e Acessos · Dados Seguros*
 
 </div>
 
@@ -22,26 +22,26 @@
 ┌──(rodrigo㉿kali)-[~]
 └─$ whoami
 
-  Name     : Rodrigo Espindola Leite
-  Role     : Defensive Security Architecture
-  Focus    : Defense in Depth | IAM | PKI & Secure Data
-  Status   : 🟢 Construindo e documentando arquiteturas defensivas
-  Learning : OpenSSL & mTLS Architecture
-             PKI Hierarchies & Network Defense Strategy
-  Contact  : https://linkedin.com/in/SEU_LINKEDIN
+  Nome       : Rodrigo Espindola Leite
+  Atuação    : Arquitetura de Segurança Defensiva
+  Foco       : Defesa em Profundidade | IAM | PKI e Dados Seguros
+  Status     : 🟢 Construindo e documentando arquiteturas defensivas
+  Estudos    : Arquitetura OpenSSL e mTLS
+               Hierarquias PKI e Estratégias de Defesa de Redes
+  Contato    : https://linkedin.com/in/SEU_LINKEDIN
 ```
 
 <br/>
 
 ---
 
-## ⚔️ Habilidades e Arsenal
+## ⚔️ Habilidades e Ferramentas
 
 <br/>
 
 <div align="center">
 
-### 🔵 Defesa em Profundidade & Visibilidade
+### 🔵 Defesa em Profundidade e Visibilidade
 
 <br/>
 
@@ -53,7 +53,7 @@
 
 <br/><br/>
 
-### 🎯 Identidade & Criptografia
+### 🎯 Identidade e Criptografia
 
 <br/>
 
@@ -65,7 +65,7 @@
 
 <br/><br/>
 
-### 💻 Infraestrutura, Linux & Laboratório
+### 💻 Infraestrutura, Linux e Laboratório
 
 <br/>
 
@@ -81,12 +81,14 @@
 
 ---
 
+<br/>
+
+<p align="center">
+  <i>"O simples abriga a complexidade."</i>
+</p>
+
+<br/>
+
 <div align="center">
-
-  <p align="center"><i>O simples abriga a complexidade.</i></p>
-
-  <br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontColor=00FF41" alt="Rodapé verde"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontColor=00FF41" alt="Rodapé decorativo verde" />
 </div>
