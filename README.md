@@ -60,10 +60,12 @@
 
 > *"O simples abriga a complexidade"*
 
+  
+<br/>
 </div>
 
-<!-- Barra Ondulada Verde Final -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" width="100%" />
+<!-- Barra Final Verde Fina -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=5&section=footer" width="100%" />
 
 
 
