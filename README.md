@@ -64,8 +64,9 @@
 <br/>
 </div>
 
-<!-- Barra Final Verde Fina -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=5&section=footer" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&fontColor=00FF41" />
+</div>
 
 
 
