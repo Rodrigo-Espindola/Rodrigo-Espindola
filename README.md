@@ -86,7 +86,7 @@
 
 ## 🌐 Conecte-se comigo
 
-> *"Através da navalha de hallon aprendemos que nem sempre é pela malicia e sim pela negligencia"* — **Kali Linux**
+> *"Criar algo simples de se entender e usar é o ápice da complexidade"* — **Rodrigo Espindola**
 
 
 
