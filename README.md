@@ -13,16 +13,16 @@
 ## 🛡️ Sobre mim
 
 ```bash
-┌──(seu-usuario㉿kali)-[~]
+┌──(rodrigo㉿kali)-[~]
 └─$ whoami
 
-  Name    : Seu Nome
-  Role    : Cybersecurity Specialist
-  Focus   : Defense in Depth | Identity & Access Management (IAM) | Secure Data Transfer
-  Status  : 🔴 Preparações avançadas para a certificação Cisco CyberOps...
-  Learning: OpenSSL, mTLS, PKI Architectures & Network Defense Strategy
-  Contact : [https://linkedin.com/in/SEU_LINKEDIN](https://linkedin.com/in/SEU_LINKEDIN)
-
+  Name     : Rodrigo Espindola Leite
+  Role     : Defensive Security Architecture
+  Focus    : Defense in Depth | IAM | PKI & Secure Data
+  Status   : 🟢 Construindo e documentando arquiteturas defensivas
+  Learning : OpenSSL & mTLS Architecture
+             PKI Hierarchies & Network Defense Strategy
+  Contact  : https://linkedin.com/in/SEU_LINKEDIN
 ```
 
 ---
