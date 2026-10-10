@@ -6,6 +6,9 @@
 
   <br/>
 
+  **Defensive Security Architecture**
+
+  *Defense in Depth · Identity & Access Management · Secure Data*
 
 </div>
 
@@ -82,8 +85,8 @@
 
   > *"O simples abriga a complexidade."*
 
-
   <br/>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontColor=00FF41" alt="Rodapé verde"/>
 
 </div>
