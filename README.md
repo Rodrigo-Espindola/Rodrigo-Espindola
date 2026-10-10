@@ -85,7 +85,7 @@
 ---
 
 
-> *"O simples abriga a complexidade"
+> *"O simples abriga a complexidade"*
 
 
 
