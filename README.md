@@ -83,7 +83,7 @@
 
 <div align="center">
 
-  <p align="center"><i>"O simples abriga a complexidade."</i></p>
+  <p align="center"><i>O simples abriga a complexidade.</i></p>
 
   <br/>
 
