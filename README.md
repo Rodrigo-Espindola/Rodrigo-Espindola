@@ -7,22 +7,7 @@
 
 </div>
 
-  <br/><br/>
-
-  <!-- Badges / Escudos estilo Shields.io -->
-  <a href="https://seu-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-SEUSITE.COM-00FF66?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-SEU__NOME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-SEU__USUARIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
   
-</div>
-
 <br/>
 
 ## 🛡️ Sobre mim
