@@ -26,49 +26,35 @@
 ```
 
 ---
+<div align="center">
 
 ## ⚔️ Habilidades e Arsenal
 
-### 🔵 Defesa Cibernética e Segurança de Redes
+### 🔵 Defesa em Profundidade & Visibilidade
 
-* **Defesa em Profundidade:** Microsegmentação, Zero Trust Network Access (ZTNA), EDR/XDR, Análise de Tráfego
-* **Segurança Operacional:** Cisco CyberOps, Análise de Logs, Mitigação de Ataques Ativos (MitM, ARP/DNS Spoofing)
+![Suricata](https://img.shields.io/badge/Suricata-ED2224?style=for-the-badge&logo=suricata&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-000000?style=for-the-badge&logo=snort&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-00599C?style=for-the-badge&logo=siem&logoColor=white)
 
-### 🎯 Gestão de Identidades (IAM) & Criptografia
+### 🎯 Identidade & Criptografia
 
-* **Gestão de Acesso:** IAM, PAM (Privileged Access Management), RBAC/ABAC, Autenticação MFA/FIDO2
-* **Transferência Segura de Dados:** Criptografia Simétrica (AES) e Assimétrica (RSA/ECC), HMAC, Hashing (SHA-256)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=keycloak&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4CAF50?style=for-the-badge&logo=auth0&logoColor=white)
+![AES](https://img.shields.io/badge/AES--256-003B57?style=for-the-badge&logo=lock&logoColor=white)
+![RSA](https://img.shields.io/badge/RSA-D14836?style=for-the-badge&logo=security&logoColor=white)
+![SHA256](https://img.shields.io/badge/SHA--256-555555?style=for-the-badge&logo=hashtag&logoColor=white)
 
-### 💻 Protocolos e Infraestrutura de Confiança
+### 💻 Infraestrutura, Linux & Laboratório
 
-* **PKI & Certificados:** Infraestrutura de Chaves Públicas (CAs Privadas/Públicas), Certificados X.509, CRL/OCSP
-* **Comunicação Segura:** Proteção da camada de transporte via TLS 1.3, mTLS (Mutual TLS), IPsec VPNs, SSH
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ☁️ Ferramentas & Laboratório
-
-* **Sistemas & CLI:** Linux (Kali / Ubuntu), OpenSSL, Wireshark, Bash Scripting, Cisco Packet Tracer
-
----
-
-## 🎯 Missão Atual
-
-```text
-[██████████████░░░░░░] 70% — 🎓 Cisco CyberOps Associate
-[████████████░░░░░░░░] 60% — 🔐 Implementação de PKI Privada e mTLS
-[████████░░░░░░░░░░░░] 40% — 🛡️ Laboratórios Práticos de Defesa em Profundidade
-
-```
-
----
-
-## 🏆 Certificações e Conquistas
-
-| 🎖️ Certificação | 🏢 Emissor | 📅 Status |
-| --- | --- | --- |
-| 🛡️ **Cisco CyberOps Associate** | Cisco Networking Academy | ⏳ Em Andamento |
-| 🔑 **Fundamentos de Criptografia e PKI** | Estudos Dirigidos | ✅ Ativo |
-| 🔐 **Segurança em Redes e Defesa em Camadas** | Especialização Autônoma | ✅ Ativo |
-
+</div>
 ---
 
 
