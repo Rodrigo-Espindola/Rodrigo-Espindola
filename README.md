@@ -6,9 +6,6 @@
 
   <br/>
 
-  **Defensive Security Architecture**
-
-  *Defense in Depth · Identity & Access Management · Secure Data*
 
 </div>
 
