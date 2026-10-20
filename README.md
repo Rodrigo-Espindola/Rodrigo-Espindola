@@ -14,71 +14,15 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>🛡️ Defesa em Profundidade</h3>
-      <p><sub>Detecção · Investigação · Resposta</sub></p>
-      <hr/>
-
-      <p>
-        <a href="https://github.com/Rodrigo-Espindola">
-          <strong>SIEM Management</strong>
-        </a>
-        <br/>
-        <sub>Simulações, detecções e cenários de investigação.</sub>
-      </p>
-
-      <p>
-        <a href="https://github.com/Rodrigo-Espindola/02-Host-Threat-and-Response">
-          <strong>Host Threat &amp; Response</strong>
-        </a>
-        <br/>
-        <sub>Playbooks de contenção e resposta no host.</sub>
-      </p>
-
-      <p>
-        <a href="https://github.com/Rodrigo-Espindola">
-          <strong>Outros projetos</strong>
-        </a>
-        <br/>
-        <sub>Adicione aqui o terceiro repositório.</sub>
-      </p>
-    </td>
-
-    <td width="33%" valign="top" align="center">
-      <h3>🔑 IAM</h3>
-      <p><sub>Identidades · Acessos · Autorização</sub></p>
-      <hr/>
-
-      <p><strong>Identity &amp; Access Management</strong></p>
-
-      <p>
-        <sub>
-          Projeto em desenvolvimento.
-          <br/>
-          Repositório será disponibilizado futuramente.
-        </sub>
-      </p>
-    </td>
-
-    <td width="33%" valign="top" align="center">
-      <h3>🔐 PKI &amp; Criptografia</h3>
-      <p><sub>Certificados · Confiança · Dados Seguros</sub></p>
-      <hr/>
-
-      <p><strong>Public Key Infrastructure</strong></p>
-
-      <p>
-        <sub>
-          Projeto em desenvolvimento.
-          <br/>
-          Estudos em OpenSSL, hierarquias PKI e mTLS.
-        </sub>
-      </p>
-    </td>
-  </tr>
-</table>
+| 🛡️ Defesa em Profundidade | 🔑 IAM | 🔐 PKI &amp; Criptografia |
+|:---:|:---:|:---:|
+| *Detecção · Investigação · Resposta* | *Identidades · Acessos · Autorização* | *Certificados · Confiança · Dados Seguros* |
+| **[SIEM Management](https://github.com/Rodrigo-Espindola)** | **Identity &amp; Access Management** | **Public Key Infrastructure** |
+| Simulações, detecções e cenários de investigação. | Projeto em desenvolvimento. Repositório será disponibilizado futuramente. | Projeto em desenvolvimento. Estudos em OpenSSL, hierarquias PKI e mTLS. |
+| **[Host Threat &amp; Response](https://github.com/Rodrigo-Espindola/02-Host-Threat-and-Response)** | | |
+| Playbooks de contenção e resposta no host. | | |
+| **[Outros projetos](https://github.com/Rodrigo-Espindola)** | | |
+| Adicione aqui o terceiro repositório. | | |
 
 <br/>
 
