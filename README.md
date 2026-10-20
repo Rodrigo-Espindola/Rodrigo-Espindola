@@ -6,30 +6,10 @@
 
   <br/>
 
-  **Trídade de Proteção em Camadas**
-```text
-  ┌──────────────────────────────────────────────────────────────┐
-  │              TRÍADE DE PROTEÇÃO EM CAMADAS                   │
-  └──────────────────────────────┬───────────────────────────────┘
-                                 │
-            ┌────────────────────┼────────────────────┐
-            │                    │                    │
-  ┌─────────▼──────────┐ ┌───────▼────────┐ ┌─────────▼──────────┐
-  │ DEFESA EM          │ │      IAM       │ │   PKI /            │
-  │ PROFUNDIDADE       │ │                │ │   CRIPTOGRAFIA     │
-  │                    │ │ Gestão de      │ │                    │
-  │ Operacional, Rede  │ │ Identidades    │ │ Certificados e     │
-  │ e Resposta         │ │ e Acessos      │ │ Proteção de Dados  │
-  └─────────┬──────────┘ └────────────────┘ └────────────────────┘
-            │
-            ├── 1. Zoneamento de Rede e Detecção
-            │
-            ├── 2. SIEM Management e Host
-            │
-            └── 3. Resposta a Incidentes
-  ```
+  **Arquitetura de Segurança Defensiva**
 
- 
+  *Defesa em Profundidade · Gestão de Identidades e Acessos · Dados Seguros*
+
 </div>
 
 <br/>
