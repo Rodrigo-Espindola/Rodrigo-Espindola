@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Defesa+Cibernetica+%26+Dados+Seguros;Defesa+em+Profundidade+%7C+IAM+%7C+PKI" alt="Texto animado: Defesa Cibernética e Dados Seguros" />
@@ -9,9 +8,7 @@
 
   <h2>🛡️ Tríade de Proteção em Camadas</h2>
 
-  <p>
-    <i>Defesa em Profundidade · Gestão de Identidades e Acessos · Dados Seguros</i>
-  </p>
+  <p><i>Defesa em Profundidade · Gestão de Identidades e Acessos · Dados Seguros</i></p>
 
 </div>
 
@@ -20,11 +17,8 @@
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-
       <h3>🛡️ Defesa em Profundidade</h3>
-
       <p><sub>Detecção · Investigação · Resposta</sub></p>
-
       <hr/>
 
       <p>
@@ -50,15 +44,11 @@
         <br/>
         <sub>Adicione aqui o terceiro repositório.</sub>
       </p>
-
     </td>
 
     <td width="33%" valign="top" align="center">
-
       <h3>🔑 IAM</h3>
-
       <p><sub>Identidades · Acessos · Autorização</sub></p>
-
       <hr/>
 
       <p><strong>Identity &amp; Access Management</strong></p>
@@ -70,15 +60,11 @@
           Repositório será disponibilizado futuramente.
         </sub>
       </p>
-
     </td>
 
     <td width="33%" valign="top" align="center">
-
       <h3>🔐 PKI &amp; Criptografia</h3>
-
       <p><sub>Certificados · Confiança · Dados Seguros</sub></p>
-
       <hr/>
 
       <p><strong>Public Key Infrastructure</strong></p>
@@ -90,7 +76,6 @@
           Estudos em OpenSSL, hierarquias PKI e mTLS.
         </sub>
       </p>
-
     </td>
   </tr>
 </table>
