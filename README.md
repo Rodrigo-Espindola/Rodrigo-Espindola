@@ -1,17 +1,11 @@
- <div align="center">
+
+<div align="center">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Defesa+Cibernetica+%26+Dados+Seguros;Defesa+em+Profundidade+%7C+IAM+%7C+PKI" alt="Texto animado: Defesa Cibernética e Dados Seguros" />
   </a>
 
   <br/>
-
-  **Tríade de Proteção em Camadas**
-
-  *Defesa em Profundidade · Gestão de Identidades e Acessos · Dados Seguros*
-
-  
-<div align="center">
 
   <h2>🛡️ Tríade de Proteção em Camadas</h2>
 
@@ -43,7 +37,7 @@
 
       <p>
         <a href="https://github.com/Rodrigo-Espindola/02-Host-Threat-and-Response">
-          <strong>Host Threat & Response</strong>
+          <strong>Host Threat &amp; Response</strong>
         </a>
         <br/>
         <sub>Playbooks de contenção e resposta no host.</sub>
@@ -67,7 +61,7 @@
 
       <hr/>
 
-      <p><strong>Identity & Access Management</strong></p>
+      <p><strong>Identity &amp; Access Management</strong></p>
 
       <p>
         <sub>
@@ -81,7 +75,7 @@
 
     <td width="33%" valign="top" align="center">
 
-      <h3>🔐 PKI & Criptografia</h3>
+      <h3>🔐 PKI &amp; Criptografia</h3>
 
       <p><sub>Certificados · Confiança · Dados Seguros</sub></p>
 
@@ -103,10 +97,6 @@
 
 <br/>
 
-
-</div>
-
-<br/>
 
 ---
 
