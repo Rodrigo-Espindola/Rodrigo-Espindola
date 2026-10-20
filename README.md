@@ -6,7 +6,7 @@
 
   <br/>
 
-  **Arquitetura de Segurança Defensiva**
+  **Tríade de Proteção em Camadas**
 
   *Defesa em Profundidade · Gestão de Identidades e Acessos · Dados Seguros*
 
