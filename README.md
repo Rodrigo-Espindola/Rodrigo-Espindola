@@ -10,6 +10,100 @@
 
   *Defesa em Profundidade · Gestão de Identidades e Acessos · Dados Seguros*
 
+  
+<div align="center">
+
+  <h2>🛡️ Tríade de Proteção em Camadas</h2>
+
+  <p>
+    <i>Defesa em Profundidade · Gestão de Identidades e Acessos · Dados Seguros</i>
+  </p>
+
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+
+      <h3>🛡️ Defesa em Profundidade</h3>
+
+      <p><sub>Detecção · Investigação · Resposta</sub></p>
+
+      <hr/>
+
+      <p>
+        <a href="https://github.com/Rodrigo-Espindola">
+          <strong>SIEM Management</strong>
+        </a>
+        <br/>
+        <sub>Simulações, detecções e cenários de investigação.</sub>
+      </p>
+
+      <p>
+        <a href="https://github.com/Rodrigo-Espindola/02-Host-Threat-and-Response">
+          <strong>Host Threat & Response</strong>
+        </a>
+        <br/>
+        <sub>Playbooks de contenção e resposta no host.</sub>
+      </p>
+
+      <p>
+        <a href="https://github.com/Rodrigo-Espindola">
+          <strong>Outros projetos</strong>
+        </a>
+        <br/>
+        <sub>Adicione aqui o terceiro repositório.</sub>
+      </p>
+
+    </td>
+
+    <td width="33%" valign="top" align="center">
+
+      <h3>🔑 IAM</h3>
+
+      <p><sub>Identidades · Acessos · Autorização</sub></p>
+
+      <hr/>
+
+      <p><strong>Identity & Access Management</strong></p>
+
+      <p>
+        <sub>
+          Projeto em desenvolvimento.
+          <br/>
+          Repositório será disponibilizado futuramente.
+        </sub>
+      </p>
+
+    </td>
+
+    <td width="33%" valign="top" align="center">
+
+      <h3>🔐 PKI & Criptografia</h3>
+
+      <p><sub>Certificados · Confiança · Dados Seguros</sub></p>
+
+      <hr/>
+
+      <p><strong>Public Key Infrastructure</strong></p>
+
+      <p>
+        <sub>
+          Projeto em desenvolvimento.
+          <br/>
+          Estudos em OpenSSL, hierarquias PKI e mTLS.
+        </sub>
+      </p>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+
 </div>
 
 <br/>
