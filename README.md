@@ -6,10 +6,58 @@
 
   <br/>
 
-  **Arquitetura de Segurança Defensiva**
+  **Trídade de Proteção em Camadas**
 
-  *Defesa em Profundidade · Gestão de Identidades e Acessos · Dados Seguros*
 
+  <table align="center">
+    <tr>
+      <td colspan="3" align="center">
+        <strong>ARQUITETURA DE SEGURANÇA DEFENSIVA</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <strong>🛡️ Defesa em Profundidade</strong>
+        <br/>
+        <sub>Proteção operacional, rede e resposta</sub>
+      </td>
+      <td align="center" width="33%">
+        <strong>🔑 IAM</strong>
+        <br/>
+        <sub>Gestão de identidades e acessos</sub>
+      </td>
+      <td align="center" width="33%">
+        <strong>🔐 PKI / Criptografia</strong>
+        <br/>
+        <sub>Certificados, confiança e proteção de dados</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <sub>01 · Zoneamento de Rede e Detecção</sub>
+        <br/>
+        <sub>02 · SIEM Management e Host</sub>
+        <br/>
+        <sub>03 · Resposta a Incidentes</sub>
+      </td>
+      <td align="center">
+        <sub>Autenticação</sub>
+        <br/>
+        <sub>Autorização</sub>
+        <br/>
+        <sub>Controle de Acesso</sub>
+      </td>
+      <td align="center">
+        <sub>Infraestrutura de Chaves Públicas</sub>
+        <br/>
+        <sub>Certificados Digitais</sub>
+        <br/>
+        <sub>Criptografia e mTLS</sub>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
 </div>
 
 <br/>
