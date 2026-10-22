@@ -17,7 +17,7 @@
 | 🛡️ Defesa em Profundidade | 🔑 IAM | 🔐 PKI &amp; Criptografia |
 |:---:|:---:|:---:|
 | *Detecção · Investigação · Resposta* | *Identidades · Acessos · Autorização* | *Certificados · Confiança · Dados Seguros* |
-| **[SIEM Management](https://github.com/Rodrigo-Espindola/01-SIEM-Management)** | **Identity &amp; Access Management** | **Public Key Infrastructure** |
+| **[SIEM Management](https://github.com/Rodrigo-Espindola/01-SIEM-Manaegement)** | **Identity &amp; Access Management** | **Public Key Infrastructure** |
 | Simulações, detecções e cenários de investigação. | Projeto em desenvolvimento. Repositório será disponibilizado futuramente. | Projeto em desenvolvimento. Estudos em OpenSSL, hierarquias PKI e mTLS. |
 | **[Host Threat &amp; Response](https://github.com/Rodrigo-Espindola/02-Host-Threat-and-Response)** | | |
 | Playbooks de contenção e resposta no host. | | |
