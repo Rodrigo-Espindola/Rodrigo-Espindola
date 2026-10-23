@@ -21,8 +21,7 @@
 | Simulações, detecções e cenários de investigação. | Projeto em desenvolvimento. Repositório será disponibilizado futuramente. | Projeto em desenvolvimento. Estudos em OpenSSL, hierarquias PKI e mTLS. |
 | **[Host Threat &amp; Response](https://github.com/Rodrigo-Espindola/02-Host-Threat-and-Response)** | | |
 | Playbooks de contenção e resposta no host. | | |
-| **[Zoneamento de Inspeção de Rede
-](https://github.com/Rodrigo-Espindola/03-Network-Inspection-Zoning)** | | |
+| **[Zoneamento de Inspeção de Rede](https://github.com/Rodrigo-Espindola/03-Network-Inspection-Zoning)** | | |
 | Adicione aqui o terceiro repositório. | | |
 
 <br/>
