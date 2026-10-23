@@ -1,7 +1,7 @@
-<div align="center">
+ <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=00FF00&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=70&amp;lines=Defesa+Cibernética+%26+Dados+Seguros;Arquitetura+de+Defesa+%7C+IAM+%7C+PKI" alt="Texto animado: Defesa Cibernética e Dados Seguros" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Defesa+Cibernetica+%26+Dados+Seguros;Defesa+em+Profundidade+%7C+IAM+%7C+PKI" alt="Texto animado: Defesa Cibernética e Dados Seguros" />
   </a>
 
   <br/>
