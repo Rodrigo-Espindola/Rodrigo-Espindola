@@ -1,20 +1,20 @@
  <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Defesa+Cibernetica+%26+Dados+Seguros;Defesa+em+Profundidade+%7C+IAM+%7C+PKI" alt="Texto animado: Defesa Cibernética e Dados Seguros" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Defesa+Cibernetica+%26+Dados+Seguros; Arquitetura+de+Defesa%7C+IAM+%7C+PKI" alt="Texto animado: Defesa Cibernética e Dados Seguros" />
   </a>
 
   <br/>
 
   <h2>🛡️ Tríade de Proteção em Camadas</h2>
 
-  <p><i>Defesa em Profundidade · Gestão de Identidades e Acessos · Dados Seguros</i></p>
+  <p><i>Arquitetura de Defesa· Gestão de Identidades e Acessos · Dados Seguros</i></p>
 
 </div>
 
 <br/>
 
-| 🛡️ Defesa em Profundidade | 🔑 IAM | 🔐 PKI &amp; Criptografia |
+| 🛡️ Arquitetura de Defesa| 🔑 IAM | 🔐 PKI &amp; Criptografia |
 |:---:|:---:|:---:|
 | *Detecção · Investigação · Resposta* | *Identidades · Acessos · Autorização* | *Certificados · Confiança · Dados Seguros* |
 | **[SIEM Management](https://github.com/Rodrigo-Espindola/01-SIEM-Manegement)** | **Identity &amp; Access Management** | **Public Key Infrastructure** |
