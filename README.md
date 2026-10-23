@@ -22,7 +22,7 @@
 | **[Host Threat &amp; Response](https://github.com/Rodrigo-Espindola/02-Host-Threat-and-Response)** | | |
 | Playbooks de contenção e resposta no host. | | |
 | **[Zoneamento de Inspeção de Rede](https://github.com/Rodrigo-Espindola/03-Network-Inspection-Zoning)** | | |
-| Adicione aqui o terceiro repositório. | | |
+| Mapeamento do escopo de rede, inspeção de tráfego e identificação de atividades maliciosas nas comunicações entre ativos. | | |
 
 <br/>
 
