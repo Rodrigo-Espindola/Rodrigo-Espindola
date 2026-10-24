@@ -14,15 +14,15 @@
 
 <br/>
 
-| 🛡️ Arquitetura de Defesa | 🔑 IAM | 🔐 PKI &amp; Criptografia |
+| 🛡️ Arquitetura de Defesa | 🔑 IAM | 🔐 PKI & Criptografia |
 |:---:|:---:|:---:|
 | *Detecção · Investigação · Resposta* | *Identidades · Acessos · Autorização* | *Certificados · Confiança · Dados Seguros* |
-| **[SIEM Management](https://github.com/Rodrigo-Espindola/01-SIEM-Manegement)** | **Identity &amp; Access Management** | **Public Key Infrastructure** |
-| Simulações, detecções e cenários de investigação. | Projeto em desenvolvimento. Repositório será disponibilizado futuramente. | Projeto em desenvolvimento. Estudos em OpenSSL, hierarquias PKI e mTLS. |
-| **[Host Threat &amp; Response](https://github.com/Rodrigo-Espindola/02-Host-Threat-and-Response)** | | |
-| Playbooks de contenção e resposta no host. | | |
-| **[Zoneamento de Inspeção de Rede](https://github.com/Rodrigo-Espindola/03-Network-Inspection-Zoning)** | | |
-| Mapeamento do escopo de rede e inspeção de tráfego. | | |
+| **[SIEM Management](https://github.com/Rodrigo-Espindola/01-SIEM-Manegement)** | **[Identity & Access Management](https://github.com/Rodrigo-Espindola/01-Identity-and-Access-Management)** | **Public Key Infrastructure** |
+| Simulações, detecções e cenários de investigação. | Gerenciamento do ciclo de vida das identidades, contas e permissões de acesso. | Projeto em desenvolvimento. Estudos em OpenSSL, hierarquias PKI e mTLS. |
+| **[Host Threat & Response](https://github.com/Rodrigo-Espindola/02-Host-Threat-and-Response)** | **[Authentication & Access Control](https://github.com/Rodrigo-Espindola/02-Authentication-and-Access-Control)** | |
+| Playbooks de contenção e resposta no host. | Autenticação, MFA, políticas de acesso e controle de permissões. | |
+| **[Zoneamento de Inspeção de Rede](https://github.com/Rodrigo-Espindola/03-Network-Inspection-Zoning)** | **[Privileged Access Management](https://github.com/Rodrigo-Espindola/03-Privileged-Access-Management)** | |
+| Mapeamento do escopo de rede e inspeção de tráfego. | Controle de acessos privilegiados, proteção de credenciais administrativas e auditoria de operações. | |
 
 <br/>
 
