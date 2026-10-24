@@ -50,7 +50,7 @@
 
 <div align="center">
 
-### 🔵 Defesa em Profundidade e Visibilidade
+### 🔵 Arquitetura de Defesa e Visibilidade
 
 <br/>
 
