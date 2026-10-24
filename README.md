@@ -17,7 +17,7 @@
 | 🛡️ Arquitetura de Defesa | 🔑 IAM | 🔐 PKI & Criptografia |
 |:---:|:---:|:---:|
 | *Detecção · Investigação · Resposta* | *Identidades · Acessos · Autorização* | *Certificados · Confiança · Dados Seguros* |
-| **[SIEM Management](https://github.com/Rodrigo-Espindola/01-SIEM-Manegement)** | **[Identity & Access Management](https://github.com/Rodrigo-Espindola/04-Gestao-de-Identidade-e-Acesso)** | **[Public Key Infrastructure](https://github.com/Rodrigo-Espindola/)** |
+| **[SIEM Management](https://github.com/Rodrigo-Espindola/01-SIEM-Manegement)** | **[Identity & Access Management](https://github.com/Rodrigo-Espindola/04-Gestao-de-Identidade-e-Acesso)** | **[Public Key Infrastructure](https://github.com/Rodrigo-Espindola/07-Infraestrutura-de-chave-publica)** |
 | Simulações, detecções e cenários de investigação. | Gerenciamento do ciclo de vida das identidades, contas e permissões de acesso. | Hierarquias de autoridades certificadoras, emissão, validação e gerenciamento de certificados digitais. |
 | **[Host Threat & Response](https://github.com/Rodrigo-Espindola/02-Host-Threat-and-Response)** | **[Authentication & Access Control](https://github.com/Rodrigo-Espindola/05-Autenticacao-e-Controle-de-Acesso)** | **[Cryptography & Secure Communications](https://github.com/Rodrigo-Espindola/6-Gestao-de-Acesso-Privilegiado)** |
 | Playbooks de contenção e resposta no host. | Autenticação, MFA, políticas de acesso e controle de permissões. | Fundamentos criptográficos, gerenciamento de chaves, assinaturas digitais, TLS e mTLS. |
