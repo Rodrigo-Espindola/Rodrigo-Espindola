@@ -21,7 +21,7 @@
 | Simulações, detecções e cenários de investigação. | Gerenciamento do ciclo de vida das identidades, contas e permissões de acesso. | Hierarquias de autoridades certificadoras, emissão, validação e gerenciamento de certificados digitais. |
 | **[Host Threat & Response](https://github.com/Rodrigo-Espindola/02-Host-Threat-and-Response)** | **[Authentication & Access Control](https://github.com/Rodrigo-Espindola/04-Gestao-de-Identidade-e-Acesso/blob/main/02-Diret%C3%B3rios%20e%20Autentica%C3%A7%C3%A3o)** | **[Cryptography & Secure Communications](https://github.com/Rodrigo-Espindola/08-Criptografia-e-comunicacoes-seguras)** |
 | Playbooks de contenção e resposta no host. | Autenticação, MFA, políticas de acesso e controle de permissões. | Fundamentos criptográficos, gerenciamento de chaves, assinaturas digitais, TLS e mTLS. |
-| **[Zoneamento de Inspeção de Rede](https://github.com/Rodrigo-Espindola/03-Network-Inspection-Zoning)** | **[Privileged Access Management](https://github.com/Rodrigo-Espindola/04-Gestao-de-Identidade-e-Acesso/blob/main/04-Gestão%20de%20Contas%20Privilegiadas)** | |
+| **[Zoneamento de Inspeção de Rede](https://github.com/Rodrigo-Espindola/03-Network-Inspection-Zoning)** | **[Privileged Access Management](https://github.com/Rodrigo-Espindola/04-Gestao-de-Identidade-e-Acesso/blob/main/03-Gestão%20de%20Contas%20Privilegiadas)** | |
 | Mapeamento do escopo de rede e inspeção de tráfego. | Controle de acessos privilegiados, proteção de credenciais administrativas e auditoria de operações. | |
 <br/>
 
